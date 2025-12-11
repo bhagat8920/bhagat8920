@@ -27,11 +27,31 @@ I am passionate about automating security workflows, securing web infrastructure
 
 ---
 
-### 🏆 Certifications & Badges
+### 💼 Professional Experience
 
-![CEH Badge](https://img.shields.io/badge/Certified_Ethical_Hacker-v13_AI-darkblue?style=for-the-badge&logo=ec-council&logoColor=white)
-![TryHackMe Rank](https://img.shields.io/badge/TryHackMe-Top_1%25_Global-red?style=for-the-badge&logo=tryhackme&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-Python_Certified-green?style=for-the-badge&logo=hackerrank&logoColor=white)
+| Role & Company | Duration | Key Responsibilities |
+| :--- | :--- | :--- |
+| **Cybersecurity Intern** <br> *GICSEH Data Security Pvt Ltd* | **Jun 2025 - Dec 2025** | • **VAPT & Bug Bounty:** Conducted hands-on vulnerability assessments and identified web app flaws.<br>• **Lab Mentorship:** Assisted students with Kali Linux & Burp Suite troubleshooting.<br>• **Reporting:** Created detailed vulnerability reports and exploitation documentation. |
+
+---
+
+### 🎓 Education
+
+| Degree | Institute | Year |
+| :--- | :--- | :--- |
+| **B.Tech (Computer Science)** | Mangalmay Institute of Engineering & Technology | *2022 - 2026* |
+| **Intermediate (MPC)** | Sri Gaytri Junior College | *2020 - 2022* |
+| **High School (Class 10th)** | Chaudhary Charan Singh School | *Completed 2020* |
+
+---
+
+### 🏆 Certifications & Badges
+*Click on the badges to verify credentials.*
+
+[![CEH Badge](https://img.shields.io/badge/Certified_Ethical_Hacker-v13_AI-darkblue?style=for-the-badge&logo=ec-council&logoColor=white)](https://aspen.eccouncil.org/VerifyBadge?&type=certification&a=9kR1PsVbydCflQFn9MoLYIhzr05oCBIBf0IMwgfgM7I=)
+[![TryHackMe Rank](https://img.shields.io/badge/TryHackMe-Pre_Security_Certificate-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/certificate/THM-DWLFNTEIUM)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Python_Certified-green?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/57e1d90636dd)
+[![Frontend Masters](https://img.shields.io/badge/Frontend_Masters-Web_Development-orange?style=for-the-badge&logo=html5&logoColor=white)](https://static.frontendmasters.com/ud/c/ecd9e87e85/yBlPKcpCER/web-development-v3.pdf)
 
 ---
 
@@ -71,22 +91,42 @@ I am passionate about automating security workflows, securing web infrastructure
 
 | **Target Domain** | **Platform/Program** | **Vulnerability Type** | **Date** | **Report Link** |
 |:---|:---:|:---|:---:|:---:|
-| ask-assist-test.mmu.ac.uk | University Disclosure | IDOR / XSS | Dec 2025 | [View Report](#) |
+| ask-assist-test.mmu.ac.uk | University Disclosure | **Subdomain Takeover** | Dec 2025 | [View Report](#) |
 | Example.com | HackerOne | SQL Injection | Nov 2025 | [View Report](#) |
 
 ---
 
-### 🎯 2026 Goals & Learning Path
-- 🔭 **Exploring:** Cloud Security (AWS/Azure) and Container Security (Docker/Kubernetes).
-- 📚 **Studying For:** CompTIA Security+ or OSCP (Offensive Security Certified Professional).
-- 🛡️ **Focus:** Automating more extensive Red Teaming workflows with Python.
+### ⏳ Certifications in Progress
+
+| Certification | Status | Progress |
+| :--- | :--- | :--- |
+| **eJPT (eLearnSecurity)** | In Progress | ![Progress](https://geps.dev/progress/60) |
+| **API Security** | Labs / Practice | ![Progress](https://geps.dev/progress/45) |
+| **DevOps Security** | Planned | ![Progress](https://geps.dev/progress/0) |
+| **Active Directory Security** | Planned | ![Progress](https://geps.dev/progress/0) |
+| **OSCP (OffSec)** | Future Goal | ![Progress](https://geps.dev/progress/0) |
+
+---
+
+### 💻 My Hacking Arsenal
+* **OS:** Kali Linux (Primary) & Windows 11 (Gaming/Dev)
+* **Shell:** Zsh with Oh-My-Zsh & Powerlevel10k
+* **Editor:** VS Code & Vim
+* **Virtualization:** VMware Workstation Pro
 
 ---
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=bhagat8920&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagat8920&layout=compact&theme=radical)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=bhagat8920&theme=radical)
+<div align="center">
+  <br>
+  <img src="https://streak-stats.demolab.com?user=bhagat8920&theme=radical&hide_border=true" alt="streak graph" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhagat8920&theme=radical" alt="Profile Details" />
+</div>
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=bhagat8920&label=Profile%20Views&color=12)
+<div align="center"> 
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=bhagat8920&label=Profile%20Views&color=blue&style=flat" alt="Visitor Count">
+</div>
