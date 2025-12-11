@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=3670A0&center=true&vCenter=true&width=435&lines=Vishal+Kumar+Bhagat;Certified+Ethical+Hacker+(CEH);Cybersecurity+Analyst;Top+1%25+on+TryHackMe" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=500&color=3670A0&center=true&vCenter=true&width=435&lines=Vishal+Kumar+Bhagat;Certified+Ethical+Hacker+(CEH);Cybersecurity+Analyst;Top+1%25+on+TryHackMe" alt="Typing SVG" />
   
   <p>
     <a href="https://www.linkedin.com/in/bhagat8920/">
