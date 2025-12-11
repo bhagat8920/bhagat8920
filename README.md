@@ -119,9 +119,9 @@ I am passionate about automating security workflows, securing web infrastructure
 ### 📊 GitHub Stats
 
 <div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=bhagat8920&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://streak-stats.demolab.com?user=bhagat8920&theme=radical&hide_border=true" alt="streak graph" />
 </div>
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhagat8920&theme=radical" alt="Profile Details" />
 </div>
