@@ -100,8 +100,8 @@ I am passionate about automating security workflows, securing web infrastructure
 
 | Certification | Status | Progress |
 | :--- | :--- | :--- |
-| **eJPT (eLearnSecurity)** | In Progress | ![Progress](https://geps.dev/progress/60) |
-| **API Security** | Labs / Practice | ![Progress](https://geps.dev/progress/45) |
+| **eJPT (eLearnSecurity)** | In Progress | ![Progress](https://geps.dev/progress/50) |
+| **API Security** | Labs / Practice | ![Progress](https://geps.dev/progress/40) |
 | **DevOps Security** | Planned | ![Progress](https://geps.dev/progress/0) |
 | **Active Directory Security** | Planned | ![Progress](https://geps.dev/progress/0) |
 | **OSCP (OffSec)** | Future Goal | ![Progress](https://geps.dev/progress/0) |
